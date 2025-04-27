@@ -17,3 +17,9 @@ This project features:
 - **Reset Timer**: Reset a timer to its initial duration.
 - **Delete Timer**: Remove a timer from the list.
 - **Dark Mode/Light Mode Toggle**: Switch between dark and light modes for a personalized experience
+  
+![Image](https://github.com/user-attachments/assets/9ca726d5-16b6-4a37-9b5a-fe9b502d166a)
+
+![Image](https://github.com/user-attachments/assets/0f7e1512-c5a4-421e-b29d-93feaef7b682)
+
+![Image](https://github.com/user-attachments/assets/a1b9f8a8-f66c-467d-accc-41d48fcf8032)
